@@ -1,0 +1,13 @@
+# Trace-FS
+
+TRISTAN demonstrator `TRACE-FS`.
+
+## License
+This project is licensed under the **[Solderpad Hardware License 2.1](https://solderpad.org/licenses/SHL-2.1/)**.
+All files contain copyright notices and attribution.
+Usage, modification, and forks are allowed as long as the license terms are followed.
+
+## Contact
+
+Todo: partners may put contact email address here.
+
