@@ -1,0 +1,2 @@
+busybox devmem 0xFF0A0054 w 0x00000000
+busybox devmem 0xFF0A0054 w 0x80000000
