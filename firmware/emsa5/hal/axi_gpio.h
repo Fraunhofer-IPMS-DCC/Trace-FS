@@ -1,3 +1,15 @@
+/**
+  * Hardware Abstraction Layer for TRISTAN TRACE_FS demonstrator.
+  *
+  * (c) 2025-2026 AbsInt Angewandte Informatik GmbH
+  *
+  * Basic definitions for Xilinx AXI GPIO (PG144).
+  * See https://docs.amd.com/r/en-US/pg144-axi-gpio/ for more details.
+  *
+  * Author:  Simon Wegener
+  * License: MIT
+  */
+
 #ifndef AXI_GPIO_H
 #define AXI_GPIO_H
 

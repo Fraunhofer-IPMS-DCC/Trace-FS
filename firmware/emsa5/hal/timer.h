@@ -1,3 +1,12 @@
+/**
+  * Hardware Abstraction Layer for TRISTAN TRACE_FS demonstrator.
+  *
+  * (c) 2025-2026 AbsInt Angewandte Informatik GmbH
+  *
+  * Author:  Simon Wegener
+  * License: MIT
+  */
+
 #ifndef TIMER_H
 #define TIMER_H
 

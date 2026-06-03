@@ -1,3 +1,12 @@
+/**
+  * Hardware Abstraction Layer for TRISTAN TRACE_FS demonstrator.
+  *
+  * (c) 2025-2026 AbsInt Angewandte Informatik GmbH
+  *
+  * Author:  Simon Wegener
+  * License: MIT
+  */
+
 #ifndef CORE_H
 #define CORE_H
 

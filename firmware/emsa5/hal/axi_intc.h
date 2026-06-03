@@ -1,3 +1,15 @@
+/**
+  * Hardware Abstraction Layer for TRISTAN TRACE_FS demonstrator.
+  *
+  * (c) 2025-2026 AbsInt Angewandte Informatik GmbH
+  *
+  * Basic definitions for Xilinx AXI Interrupt Controller (PG099).
+  * See https://docs.amd.com/v/u/en-US/pg099-axi-intc for more details.
+  *
+  * Author:  Simon Wegener
+  * License: MIT
+  */
+
 #ifndef AXI_INTC_H
 #define AXI_INTC_H
 

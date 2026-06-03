@@ -1,5 +1,18 @@
+/**
+  * Firmware for TRISTAN TRACE_FS demonstrator.
+  *
+  * (c) 2025-2026 AbsInt Angewandte Informatik GmbH
+  *
+  * Author:  Simon Wegener
+  * License: MIT
+  */
+
 #ifndef SCHEDULER_H
 #define SCHEDULER_H
+
+#include <stdbool.h>
+#include <stddef.h>
+#include <stdint.h>
 
 typedef void (*entry_func_t) (void);
 

@@ -1,3 +1,15 @@
+/**
+  * Hardware Abstraction Layer for TRISTAN TRACE_FS demonstrator.
+  *
+  * (c) 2025-2026 AbsInt Angewandte Informatik GmbH
+  *
+  * Basic definitions for Xilinx AXI Timer (PG079).
+  * See https://docs.amd.com/r/en-US/pg079-axi-timer/ for more details.
+  *
+  * Author:  Simon Wegener
+  * License: MIT
+  */
+
 #ifndef AXI_TIMER_H
 #define AXI_TIMER_H
 
