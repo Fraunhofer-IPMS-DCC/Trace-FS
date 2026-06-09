@@ -1,3 +1,22 @@
+/*!
+ * Copyright (c) 2026 Fraunhofer IPMS, (www.ipms.fraunhofer.de)
+ * Copyright (c) 2026 Accemic Technologies GmbH, (www.accemic.com)
+ *
+ * Licensed under the Solderpad Hardware License v2.1 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *     http://solderpad.org/licenses/SHL-2.1/
+ * Unless required by applicable law or agreed to in writing, distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES
+ * OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * \file   mem_loader.c
+ * \author Martin Zimmerling, Albert Schulz
+ * \brief  Tool to upload binaries into ITCM or BRAM of the TRACE_FS demonstrator.
+ *
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>

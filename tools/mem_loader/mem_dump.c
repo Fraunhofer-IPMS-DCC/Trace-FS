@@ -1,3 +1,22 @@
+/*!
+ * Copyright (c) 2026 Fraunhofer IPMS, (www.ipms.fraunhofer.de)
+ * Copyright (c) 2026 AbsInt Angewandte Informatik GmbH, (www.absint.com)
+ *
+ * Licensed under the Solderpad Hardware License v2.1 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *     http://solderpad.org/licenses/SHL-2.1/
+ * Unless required by applicable law or agreed to in writing, distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES
+ * OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * \file   mem_dump.c
+ * \author Martin Zimmerling, Simon Wegener
+ * \brief  Tool to dump the contents of ITCM of the TRACE_FS demonstrator into a binary file.
+ *
+ */
 #include <assert.h>
 #include <stdbool.h>
 #include <stdint.h>

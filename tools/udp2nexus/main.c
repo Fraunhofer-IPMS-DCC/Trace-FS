@@ -1,5 +1,6 @@
 /*!
  * Copyright (c) 2026 Fraunhofer IPMS, (www.ipms.fraunhofer.de)
+ *
  * Licensed under the Solderpad Hardware License v2.1 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
