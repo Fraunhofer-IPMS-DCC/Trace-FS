@@ -1,6 +1,6 @@
 # TRISTAN Trace-FS Demonstrator
 
-FHG, ACCT, SYS, MNRS, TNR, and ABS demonstrate the use of non-intrusive program tracing for embedded RISC-V systems in a functional safety context (compatible with ISO 26262 and IEC 61508).
+Fraunhofer IPMS, Accemic, Sysgo, Minres, Tensor, and AbsInt demonstrate the use of non-intrusive program tracing for embedded RISC-V systems in a functional safety context (compatible with ISO 26262 and IEC 61508).
 The demonstrator is based on a Xilinx Kria KR260 FPGA board and includes a RISC-V subsystem in Dual-Mode-Redundancy-Lockstep configuration together with some peripherals and the novel tracing interface.
 The bitstream for the FPGA contains the [EMSA5](https://www.ipms.fraunhofer.de/de/Components-and-Systems/Components-and-Systems-Data-Communication/ip-cores/RISC-V-EMSA5-IP-Cores.html) RISC-V core of Fraunhofer IPMS, the [C-Trace unit](https://github.com/accemic/c-trace) of Accemic, the [TSN tracelink](https://github.com/Fraunhofer-IPMS-DCC/Trace-Link) of Fraunhofer IPMS, and some Xilinx IP blocks.
 The execution of the embedded software running on the RISC-V core is observed by the C-Trace unit via the TIP interface.
@@ -46,8 +46,8 @@ All files contain copyright notices and attribution.
 Usage, modification, and forks are allowed as long as the license terms are followed.
 
 ## Contact
+[Fraunhofer IPMS - Contact/IP Cores](https://www.ipms.fraunhofer.de/de/Components-and-Systems/Components-and-Systems-Data-Communication/ip-cores.html)
 
-Todo: partners may put contact email address here.
 
 ## Acknowledgement
 
