@@ -1,0 +1,21 @@
+TRACE-FS — TRISTAN C-Trace Demonstrator (AMD Kria KR260 implementation)
+Copyright Accemic Technologies GmbH
+
+EMSA5 and TSN-EP portions included in this TRACE-FS bitstream are under Copyright Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V., acting as legal entity on behalf of Fraunhofer-Institut für Photonische Mikrosysteme IPMS. To the extent such portions are included in this TRACE-FS bitstream, they are made available under the license stated below for this bitstream distribution.
+
+Licensed under the Solderpad Hardware License v2.1
+(SPDX: Apache-2.0 WITH SHL-2.1).
+
+THIRD-PARTY / VENDOR CONTENT
+This FPGA bitstream is generated for the AMD/Xilinx Kria platform and may embed
+AMD/Xilinx device primitives and IP configured via the vendor tools. Such vendor
+content is NOT licensed under this License and remains subject to the applicable
+AMD/Xilinx end-user license terms. The license granted here covers only the parts
+of the Work in which the Licensor holds Rights.
+
+FUNDING
+This work was developed within the TRISTAN project.
+
+TRISTAN Project has received funding from the Chips Joint Undertaking (Chips-JU) under grant agreement No. 101095947. Chips-JU receives support from the European Union’s Horizon Europe research and innovation programme and Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Germany, Denmark, Estonia, Greece, Spain, Finland, France, Hungary, Ireland, Israel, Iceland, Italy, Lithuania, Luxembourg, Latvia, Malta, Netherlands, Norway, Poland, Portugal, Romania, Sweden, Slovenia, Slovakia and Turkey.
+
+TRISTAN Project has received funding from the German Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR).
