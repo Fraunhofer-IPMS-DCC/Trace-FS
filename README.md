@@ -31,13 +31,13 @@ This trace is emitted via the TSN tracelink and can be captured and stored on di
 ## Repository Structure
 
 ```
-├── bitstream/          The bitstream with the EMSA5 and C-Trace unit
-├── doc/                Some additional documentation
-├── example/            Example trace obtained for the firmware
-├── firmware/           Firmware for the EMSA5 variant of the demonstrator
+├── bitstream/                  The bitstream with the EMSA5 and C-Trace unit
+├── doc/                        Some additional documentation
+├── example/                    Example trace obtained for the firmware
+├── firmware/                   Firmware for the EMSA5 variant of the demonstrator
 ├── risc-v-summit-europe-2026/  Poster and extended abstract describing the C-Trace ecosystem
-├── scripts/            Utility scripts
-├── tools/              Helper tools
+├── scripts/                    Utility scripts
+├── tools/                      Helper tools
 ```
 
 ## License
