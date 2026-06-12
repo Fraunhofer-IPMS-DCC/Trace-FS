@@ -35,6 +35,7 @@ This trace is emitted via the TSN tracelink and can be captured and stored on di
 ├── doc/                Some additional documentation
 ├── example/            Example trace obtained for the firmware
 ├── firmware/           Firmware for the EMSA5 variant of the demonstrator
+├── risc-v-summit-europe-2026/  Poster and extended abstract describing the C-Trace ecosystem
 ├── scripts/            Utility scripts
 ├── tools/              Helper tools
 ```
